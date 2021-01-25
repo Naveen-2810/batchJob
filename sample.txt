@@ -4,4 +4,5 @@ Yep
 Again added some text to check merge conflict
 This line is to raise a conflict
 solved
+adding something in feature branch
 
