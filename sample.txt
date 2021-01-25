@@ -1,4 +1,7 @@
 Hi there this is a sample file for testing
 This is a second commit
 Yep
+Again added some text to check merge conflict
 This line is to raise a conflict
+solved
+
